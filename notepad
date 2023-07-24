@@ -1,0 +1,32 @@
+7[?47h[27m[24m[0m[H[J[30;1H[1m[37m[41mE325: ATTENTION[0m
+Found a swap file by the name "C:/lena/project/hexlet-git/.git/.COMMIT_EDITMSG.swp"
+[10Cowned by: Lena   dated: Fri Jul 21 13:06:40 2023
+[9Cfile name: /c/lena/project/hexlet-git/.git/COMMIT_EDITMSG
+[10Cmodified: YES
+[9Cuser name: Lena   host name: DESKTOP-83UGUM9
+[8Cprocess ID: 826
+While opening file "C:/lena/project/hexlet-git/.git/COMMIT_EDITMSG"
+[13Cdated: Fri Jul 21 13:49:23 2023
+      NEWER than swap file!
+
+(1) Another program may be editing the same file.  If this is the case,
+    be careful not to end up with two different instances of the same
+    file when making changes.  Quit, or continue with caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r C:/lena/project/hexlet-git/.git/COMMIT_EDITMSG"
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file "C:/lena/project/hexlet-git/.git/.COMMIT_EDITMSG.swp"
+    to avoid this message.
+
+[1m[32mSwap file "C:/lena/project/hexlet-git/.git/.COMMIT_EDITMSG.swp" already exists![0m
+[1m[32m[O]pen Read-Only, (E)dit anyway, (R)ecover, (D)elete it, (Q)uit, (A)bort: [0m[30;1H[K[30;1H"C:/lena/project/hexlet-git/.git/COMMIT_EDITMSG" [readonly][unix] 17L, 394B[1;1H[1m[33madd content to INFO.md and README.md[0m
+
+[1m[36m# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Fri Jul 21 13:14:27 2023 +0400
+#
+# On branch [0m[1m[31mmain[0m
+[1m[36m# Your branch is up to date with '[0m[1m[31morigin/main[0m[1m[36m'.
+#[0m[10;2H[K[11;1H[1m[36m# [0m[1m[34mChanges to be committed:[0m[11;28H[K[12;1H[1m[36m#       [0m[1m[32mmodified[0m[1m[36m: [0m[1m[35m  INFO.md[0m[12;28H[K[13;1H[1m[36m#       [0m[1m[32mmodified[0m[1m[36m: [0m[1m[35m  README.md[0m
+[1m[36m#[0m[14;10H[K[15;1H[1m[36m# [0m[1m[34mUntracked files:[0m[15;19H[K[16;1H[1m[36m#       [0m[1m[35mnotepad[0m[16;16H[K[17;1H[1m[36m#[0m[17;14H[K[18;1H[1m[34m~                                                                                                                       [19;1H~                                                                                                                       [20;1H~                                                                                                                       [21;1H~                                                                                                                       [22;1H~                                                                                                                       [23;1H~                                                                                                                       [24;1H~                                                                                                                       [25;1H~                                                                                                                       [26;1H~                                                                                                                       [27;1H~                                                                                                                       [28;1H~                                                                                                                       [0m[29;1H[1m[7mC:/lena/project/hexlet-git/.git/COMMIT_EDITMSG[RO] [unix] (13:49 21/07/2023)                                     1,1 All[1;1H[0m[30;110H^M[1;1H[30;110H  [2;1H[29;112H[1m[7m2,0-[2;1H[0m[30;110H^M[2;1H[30;110H  [3;1H[29;112H[1m[7m  3,[3;1H[0m[30;110H^[[3;1H[30;110H  [3;1H[30;110H^[[3;1H[30;110H  [3;1H
